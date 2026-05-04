@@ -1,1 +1,1 @@
-# OSIS-MPK-SABS
+# OSIS-MPK
